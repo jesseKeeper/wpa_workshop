@@ -1,0 +1,16 @@
+{
+    "name": "Calculator",
+    "short_name": "Calculator",
+    "start_url": "https://marijn1606.github.io/wpa_workshop/",
+    "background_color": "#6dcdb1",
+    "theme_color": "#009578",
+    "display": "standalone",
+    "icons": [
+      {
+        "src": "images/calculator_512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
+  
